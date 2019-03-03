@@ -4,7 +4,7 @@
 程序下载地址：http://redsquirrel87.altervista.org/doku.php/custom-themes-manager  
 
 ##1、使用方法
-1，下载并安装CTManager，将ctm.txt复制到ux0根目录；
+1，下载并安装CTManager，将对应版本的ctm.txt复制到ux0根目录；
 _________________
 2，将下载好的主题解压并置于ux0:customtheme/目录内(没有此目录请新建)，在APP里选中并安装；
 注：主题资源需分别包含在单独的目录内。
